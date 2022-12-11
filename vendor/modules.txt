@@ -1,0 +1,9 @@
+# github.com/gocraft/dbr/v2 v2.7.3
+## explicit; go 1.17
+github.com/gocraft/dbr/v2
+github.com/gocraft/dbr/v2/dialect
+# github.com/lib/pq v1.10.4
+## explicit; go 1.13
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
